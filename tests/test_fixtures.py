@@ -21,7 +21,6 @@ def test_password_title(setup_teardown):
     print("Test 2 is complete")
 
 
-asdsd_asda = (By.XPATH,"asdasds")
 
 
 
